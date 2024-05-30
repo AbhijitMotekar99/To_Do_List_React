@@ -1,4 +1,4 @@
-📝 To-Do List App
+#📝 To-Do List App
 
 This delightful To-Do List app 📋 allows you to manage your tasks effortlessly! With a sleek and responsive design, it's perfect for organizing your day-to-day activities. Here's what you can do:
 
@@ -17,24 +17,24 @@ This delightful To-Do List app 📋 allows you to manage your tasks effortlessly
 
 
 Testing Guidelines
-Adding, Editing, Deleting, and Marking Tasks:
 
-Open the To-Do List app.
-Add a new task by entering a title and description, then click "Add".
-Edit a task by clicking the "Edit" button next to the task, make changes, and save.
-Delete a task by clicking the "Delete" button next to the task.
-Mark a task as done by clicking the "Done" button.
-Verify that all actions are reflected correctly in the UI.
-LocalStorage Integration:
+Adding, Editing, Deleting, and Marking Tasks:
+-Open the To-Do List app.
+-Add a new task by entering a title and description, then click "Add".
+-Edit a task by clicking the "Edit" button next to the task, make changes, and save.
+-Delete a task by clicking the "Delete" button next to the task.
+-Mark a task as done by clicking the "Done" button.
+-Verify that all actions are reflected correctly in the UI.
+-LocalStorage Integration:
 
 Add, edit, delete, and mark tasks as done.
-Refresh the page.
-Verify that the tasks you added or modified are still present after refreshing.
-Responsive Design:
+-Refresh the page.
+-Verify that the tasks you added or modified are still present after refreshing.
 
-Open the app on different devices such as desktop, tablet, and mobile.
-Ensure that the layout adjusts smoothly and all features remain accessible.
-Follow these steps to thoroughly test the To-Do List app and ensure a seamless user experience!
+Responsive Design:
+-Open the app on different devices such as desktop, tablet, and mobile.
+-Ensure that the layout adjusts smoothly and all features remain accessible.
+-Follow these steps to thoroughly test the To-Do List app and ensure a seamless user experience!
 
 
 ______________ Command for Testing _______________
@@ -53,5 +53,12 @@ npm install
 npm start
 
 # 5. Open the app in your web browser and perform the testing steps mentioned above
+
+
+Output :
+![HomePage](https://github.com/AbhijitMotekar99/To_Do_List_React/blob/main/src/assets/p1.png)
+![MarkAsDone](https://github.com/AbhijitMotekar99/To_Do_List_React/blob/main/src/assets/p2.png)
+![LocalStorage](https://github.com/AbhijitMotekar99/To_Do_List_React/blob/main/src/assets/p3.png)
+
 
 
